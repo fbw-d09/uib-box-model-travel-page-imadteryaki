@@ -40,8 +40,8 @@ main{
 h2{
     position: relative;
     top:20%;
-^   bottom: 5%;
-}
+^   bottom: 5%;}
+
 #content > p {
     text-align: justify;
     position: relative;
